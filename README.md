@@ -13,7 +13,7 @@ Oui, c'est une licence non libre !
 
 N'hésitez pas à ouvrir un ticket pour une remarque sur les documents.
 
-## Installation des outils
+## Installation des outils pour Windows
 
 * Installez un Ubuntu 18.04 LTS
   * En mono ou dual boot
